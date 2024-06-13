@@ -1,10 +1,10 @@
-Libro de recetas:
+# Libro de recetas
 
 Receta: Hamburguesa
 
 Ingredientes:
 
-- Pangit 
+- Pan
 - Torta 
 - Salsa tomate
 - Salsa Mayonesa
